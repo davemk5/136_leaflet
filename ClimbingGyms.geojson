@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BaseCamp Climbing",
+        "marker-color": "#0000ff",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        43.663869,
+        -79.416420
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rock Oasis",
+        "marker-color": "#0000ff",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.665886,
+          -79.342986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joe Rock Head's",
+        "marker-color": "#0000ff",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.636426,
+          -79.423145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulderz Climbing Centre",
+        "marker-color": "#ff0000",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.666967,
+          -79.449462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto Climbing Academy",
+        "marker-color": "#0000ff",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.709235,
+          -79.314777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "True North Climbing",
+        "marker-color": "#ff0000",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.745239,
+          -79.474552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hub Climbing",
+        "marker-color": "#ff0000",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.857150,
+          -79.357522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Up The Bloc",
+        "marker-color": "#008000",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.604601,
+          -79.585709
+        ]
+      }
+    }
+  ]
+}
+
